@@ -1,10 +1,7 @@
 [![MasterHead](./banner.png)](https://553622.klas4s21.mid-ica.nl/)
 <h1 align="center">Welcome to my profile! 👋</h1>
 <h3 align="center">A passionate frontend and backend developer from the Netherlands</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=twanknip&label=Profile%20views&color=0e75b6&style=flat" alt="twanknip" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=twanknip" alt="twanknip" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif">
 
 - 🔭 I’m currently working on **StemWijzer**
 
