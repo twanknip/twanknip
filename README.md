@@ -1,4 +1,4 @@
-<h1 align="center">I am a graduated software developer & studying cybersecurity.</h1>
+<h1 align="center">I am a graduated software developer & studying cybersecurity!</h1>
 
 - 🔭 I’m currently working on Sniffer [Sniffer](https://github.com/twanknip/Sniffer.git)
 
