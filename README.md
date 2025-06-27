@@ -1,5 +1,4 @@
-<h1 align="center">My name is Twan</h1>
-<h3 align="center">Welcome to my page! I am a graduated software developer & studying cybersecurity.</h3>
+<h1 align="center">Welcome to my page! I am a graduated software developer & studying cybersecurity.</h1>
 
 - 🔭 I’m currently working on Sniffer [Sniffer](https://github.com/twanknip/Sniffer.git)
 
