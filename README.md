@@ -1,13 +1,5 @@
 <h1 align="center">I am a graduated software developer & studying cybersecurity!</h1>
 
-- 🔭 I’m currently working on Sniffer [Sniffer](https://github.com/twanknip/Sniffer.git)
-
-- 🌱 I’m currently learning **Linux, Laravel, C and python**
-
-- 💬 Ask me about **Laravel**
-
-- 📫 How to reach me **Twanknip@gmail.com**
-
 <p align="left">
 </p>
 
